@@ -1,0 +1,1 @@
+web: python pisyuk_bot.py
